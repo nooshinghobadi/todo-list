@@ -2,8 +2,8 @@
 from django.urls import path
 from . import views
 
-
-urlpatternes = [
+# The bog fixed
+urlpatterns = [
 
     # path('hello/', views.say_hello, name='hello'),
     # path('', views.home),
